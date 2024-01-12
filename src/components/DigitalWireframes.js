@@ -15,7 +15,7 @@ const DigitalWireframes = () =>{
 
   {/* Digital Wireframes Mobile responsive */}
   <section className="persona digital-wireframe-mobile">
-    <h2>Paper Wireframes For Mobile Screen</h2>
+    <h2>Digital Wireframes For Mobile Screen</h2>
     <p>Spending time on paper wireframes for the smaller screen version was essential in ensuring that the digital wireframes effectively addressed user concerns.</p>
     <div className="images">
     <img src={digitalHomepageMobile} alt="" />
