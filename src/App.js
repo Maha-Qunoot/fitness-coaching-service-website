@@ -4,7 +4,7 @@ import MockupShowcase from './components/MockupShowcase';
 import ProductOverview from './components/ProductOverview';
 import Persona from './components/Persona';
 import UserJourneyMap from './components/UserJourneyMap';
-// import Sitemap from './components/Sitemap';
+
 import PaperWireframes from './components/PaperWireframes';
 import DigitalWireframes from './components/DigitalWireframes';
 import LowFidelityPrototype from './components/LowFidelityPrototype';
@@ -26,7 +26,7 @@ function App() {
       <ProductOverview />
       <Persona />
       <UserJourneyMap />
-      {/* <Sitemap /> */}
+     
       <PaperWireframes />
       <DigitalWireframes />
       <LowFidelityPrototype />

@@ -7,7 +7,7 @@ const LowFiPrototypeSection = () => {
       <div className="prototype-info">
         <h3>Low-Fidelity Prototype</h3>
         <p>
-          After turning the final wireframes into a prototype and conducting a usability study, I improved the prototype to show how users go through steps like choosing a restaurant, pre-ordering, entering reservation details, adding payment options, and confirming the reservation
+        After turning the final wireframes .I created a low-fidelity prototype wireframes to test functionality of Fitness Coaching Service website and ensure accessibility for end-users.
         </p>
         <a href="https://www.figma.com/proto/pRnhQi95Mz1O3uZmXDLILD/fitness-coaching-services-app?type=design&node-id=123-1367&t=jIIYHmulvqrfqysq-1&scaling=scale-down&page-id=23%3A2&mode=design" target="_blank" rel="noopener noreferrer">View Low-fidelity prototype</a>
       </div>
